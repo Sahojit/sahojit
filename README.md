@@ -15,36 +15,12 @@
 
 ## 🧰 **Skills & Tools**
 
-![Skills](https://skillicons.dev/icons?i=python,rust,aws,azure,git,docker,html,css,js,mysql,postgres,mongodb,linux,vscode,github)
+![Skills](https://skillicons.dev/icons?i=python,rust,aws,azure,git,docker,html,css,js,mysql,linux,vscode,github)
 
 ![More Skills](https://skillicons.dev/icons?i=pytorch,kafka)
 
 **Additional:**  
-PySpark • SQL • MLOps • Data Pipelines • Distributed Systems  
-
----
-
-## 🚀 **Projects**
-
-### 🔹 **AI Lost & Found (ML Project)**
-End-to-end ML-based system for identifying, matching, and returning lost items using image embeddings, similarity models, and automated metadata extraction.
-
-**Tech:** Python, PyTorch, Azure Storage, FastAPI, Docker  
-**Features:**  
-- Object detection + similarity search  
-- Automated indexing & classification  
-- Scalable API deployment  
-
----
-
-### 🔹 **SPATA: Systematic Pattern Analysis for Detailed & Transparent Data Cards**
-A framework designed to create transparent, interpretable data cards with systematic pattern analysis for ML datasets.
-
-**Tech:** Python, Pandas, PySpark, Data Profiling  
-**Features:**  
-- Automated dataset insights  
-- Bias & drift detection  
-- Transparent reporting for stakeholders  
+SQL • PySpark • MLOps • Data Pipelines • Distributed Systems  
 
 ---
 
@@ -60,6 +36,6 @@ A framework designed to create transparent, interpretable data cards with system
 ## 🔗 **Connect With Me**
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sahojit-karmakar-38972b28a/)  
-**Let's collaborate on AI, ML, Data Engineering & Cloud projects!**
+**Open to collaborating on AI, ML, Data Engineering & Cloud projects!**
 
 ---
