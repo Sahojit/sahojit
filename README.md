@@ -14,7 +14,7 @@
 - 🌱 Learning: **MLOps, Distributed Systems, PySpark, Azure, AWS**  
 - 👯 Open to collaborating on **AI/ML applications, Data Engineering workflows, Automation pipelines**  
 - 💬 Ask me about: **Python, Machine Learning, Pytorch, Kafka, Data Engineering, Cloud Architecture**  
-- 📫 Reach me at: **sahojit.karmakar@gmail.com**  
+- 📫 Reach me at: **sahojitxd26@gmail.com**  
 - ⚡ Fun fact: I love building AI systems that solve real-world problems!  
 
 ---
