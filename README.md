@@ -6,23 +6,12 @@
 <h1 align="center">Hi 👋, I'm Sahojit</h1>
 <h3 align="center">AI / Machine Learning Engineer • Data Engineer</h3>
 
----
-
-<p align="center">
-  
-```yaml
-name: Sahojit Karmakar
-role: AI / ML Engineer & Data Engineer
-skills:
-  - Python, Rust, SQL
-  - PyTorch, PySpark, Kafka
-  - MLOps, Docker
-  - Azure, AWS
-interests: "Building scalable ML systems & data pipelines"
-currently_learning: "Advanced ML workflows & distributed compute"
-```
-
-</p>
+- 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and SPATA (Systematic Pattern Analysis for Detailed and Transparent Data Cards)
+- 🌱 I’m currently learning advanced MLOps, distributed systems, PySpark, and Azure/AWS cloud engineering
+- 👯 I’m looking to collaborate on AI/ML applications, data engineering projects, and scalable automation tools
+- 💬 Ask me about Python, Machine Learning, Pytorch, Kafka, Data Engineering, or Cloud Architecture
+- 📫 How to reach me: sahojit.karmakar@gmail.com
+- ⚡ Fun fact: I love building end-to-end ML systems that solve real-world problems!
 
 ---
 
