@@ -1,9 +1,9 @@
-<!-- HEADER GIF -->
+<!-- CLEAN PROFESSIONAL BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+  <img src="https://raw.githubusercontent.com/itsmetherohit/temp-assets/main/clean-geometry-banner.png" width="800">
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Sahojit</strong></h1>
+<h1 align="center">Hi 👋, I'm Sahojit</h1>
 <h3 align="center">AI / Machine Learning Engineer • Data Engineer</h3>
 
 ---
@@ -67,6 +67,6 @@ currently_learning: "Advanced ML workflows & distributed compute"
 ---
 
 <p align="center">
-  ✨ <strong>Thanks for stopping by!</strong><br>
+  ✨ <strong>Thanks for visiting!</strong><br>
   Always open to collaborating on AI, ML, Cloud & Data Engineering projects 🚀
 </p>
