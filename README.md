@@ -1,6 +1,6 @@
-<!-- CLEAN PROFESSIONAL BANNER -->
+<!-- FIXED CLEAN PROFESSIONAL BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsmetherohit/temp-assets/main/clean-geometry-banner.png" width="800">
+  <img src="https://i.imgur.com/3ZQ3Z6f.png" width="800">
 </p>
 
 <!-- TYPING ANIMATION INTRO -->
@@ -14,12 +14,11 @@
   </a>
 </p>
 
-<!-- INTRO DETAILS -->
-- 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and SPATA (Systematic Pattern Analysis for Detailed and Transparent Data Cards)  
-- 🌱 I’m currently learning advanced MLOps, distributed systems, PySpark, and Azure/AWS cloud engineering  
-- 👯 I’m looking to collaborate on AI/ML applications, data engineering projects, and scalable automation tools  
-- 💬 Ask me about Python, Machine Learning, Pytorch, Kafka, Data Engineering, or Cloud Architecture  
-- 📫 How to reach me: **sahojit.karmakar@gmail.com**  
+- 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and SPATA (Systematic Pattern Analysis for Detailed and Transparent Data Cards)
+- 🌱 I’m currently learning advanced MLOps, distributed systems, PySpark, and Azure/AWS cloud engineering
+- 👯 I’m looking to collaborate on AI/ML applications, data engineering projects, and scalable automation tools
+- 💬 Ask me about Python, Machine Learning, Pytorch, Kafka, Data Engineering, or Cloud Architecture
+- 📫 How to reach me: **sahojit.karmakar@gmail.com**
 - ⚡ Fun fact: I love building end-to-end ML systems that solve real-world problems!
 
 ---
