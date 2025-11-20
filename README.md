@@ -1,12 +1,5 @@
-<!-- FIXED CLEAN PROFESSIONAL BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z6f.png" width="800">
-</p>
-
 <!-- TYPING ANIMATION INTRO -->
-<h1 align="center">
-  Hi 👋, I'm Sahojit  
-</h1>
+<h1 align="center">Hi 👋, I'm Sahojit</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,26 +7,19 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and SPATA (Systematic Pattern Analysis for Detailed and Transparent Data Cards)
-- 🌱 I’m currently learning advanced MLOps, distributed systems, PySpark, and Azure/AWS cloud engineering
-- 👯 I’m looking to collaborate on AI/ML applications, data engineering projects, and scalable automation tools
-- 💬 Ask me about Python, Machine Learning, Pytorch, Kafka, Data Engineering, or Cloud Architecture
-- 📫 How to reach me: **sahojit.karmakar@gmail.com**
-- ⚡ Fun fact: I love building end-to-end ML systems that solve real-world problems!
+---
+
+### ⚡ About Me  
+- 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and **SPATA** (Systematic Pattern Analysis for Detailed and Transparent Data Cards)  
+- 🌱 Learning: **MLOps, Distributed Systems, PySpark, Azure, AWS**  
+- 👯 Open to collaborating on **AI/ML applications, Data Engineering workflows, Automation pipelines**  
+- 💬 Ask me about: **Python, Machine Learning, Pytorch, Kafka, Data Engineering, Cloud Architecture**  
+- 📫 Reach me at: **sahojit.karmakar@gmail.com**  
+- ⚡ Fun fact: I love building AI systems that solve real-world problems!  
 
 ---
 
-## <p align="center">🔗 Connect With Me</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahojit-karmakar-38972b28a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
-  </a>
-</p>
-
----
-
-# <p align="center">🧰 Skills & Tools (Badges Version)</p>
+## <p align="center">🧰 Skills & Tools</p>
 
 <p align="center">
 
@@ -77,6 +63,6 @@
 ---
 
 <p align="center">
-  ✨ <strong>Thanks for visiting!</strong><br>
-  Let’s collaborate on something cool 🚀
+✨ <strong>Thanks for visiting!</strong><br>
+Let’s build something amazing together 🚀
 </p>
