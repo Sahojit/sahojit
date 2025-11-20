@@ -20,7 +20,7 @@ AI/ML applications, data engineering systems, and automation tools
 
 ### 📬 Contact
 
-📧 **[sahojit.karmakar@gmail.com](mailto:sahojit.karmakar@gmail.com)**
+📧 **[sahojitxd26@gmail.com](mailto:sahojit.karmakar@gmail.com)**
 
 ---
 
