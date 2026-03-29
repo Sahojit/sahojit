@@ -11,7 +11,7 @@
 
 ### ⚡ About Me  
 - 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and **SPATA** (Systematic Pattern Analysis for Detailed and Transparent Data Cards)  
-- 🌱 Learning: **MLOps, Distributed Systems, PySpark, Azure, AWS**  
+- 🌱 Learning: **MLOps, Distributed Systems, PySpark, AWS**  
 - 👯 Open to collaborating on **AI/ML applications, Data Engineering workflows, Automation pipelines**  
 - 💬 Ask me about: **Python, Machine Learning, Pytorch, Kafka, Data Engineering, Cloud Architecture**  
 - 📫 Reach me at: **sahojitxd26@gmail.com**  
@@ -35,7 +35,7 @@
 
 <!-- Cloud -->
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 
 <!-- MLOps / DevOps -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
