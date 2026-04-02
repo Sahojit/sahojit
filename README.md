@@ -1,5 +1,5 @@
 <!-- TYPING ANIMATION INTRO -->
-<h1 align="center">Hi 👋, I'm Sahojit</h1>
+
 
 <div align="center">
 
