@@ -1,11 +1,12 @@
 <!-- TYPING ANIMATION INTRO -->
 <h1 align="center">Hi 👋, I'm Sahojit</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF007F&size=28&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning+Engineer;Data+Engineer;Cloud+%26+Distributed+Systems+Learner;Building+End-to-End+ML+Pipelines;Always+Learning+New+Things+🚀">
-  </a>
-</p>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:00c8ff,100:7850ff&height=220&section=header&text=Sahojit%20Karmakar&fontSize=44&fontColor=edf2f7&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps&descSize=14&descColor=5a6577&descAlignY=52&animation=fadeIn"
+  width="100%" />
+
+</div>
 
 ---
 
