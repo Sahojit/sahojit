@@ -1,4 +1,4 @@
-!-- TYPING ANIMATION INTRO -->
+
 
 
 <div align="center">
