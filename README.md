@@ -1,166 +1,69 @@
-<a href="#"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:111827&height=120&section=header"/></a>
+!-- TYPING ANIMATION INTRO -->
 
-## ⚙️
 
-productionizing intelligence = (data, models, systems);  
-p(failure) ↓ as observability ↑ ; decisions ∈ real-world systems  
+<div align="center">
 
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,50:00c8ff,100:7850ff&height=220&section=header&text=Sahojit%20Karmakar&fontSize=44&fontColor=edf2f7&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps&descSize=14&descColor=5a6577&descAlignY=52&animation=fadeIn"
+  width="100%" />
 
-I don’t build models.
-
-I build systems that **detect, prevent, and explain failures** in production environments.
-
-That means:
-- logs → intelligence  
-- commits → risk → prevention  
-- pipelines → self-improving systems  
-
-If it doesn’t survive real-world conditions, it’s not useful.
+</div>
 
 ---
 
-If I had to define my approach:
-
-> build → deploy → observe → fail → learn → iterate  
-
-Most stop at build.  
-I optimize for everything after.
-
----
-
-## Now
-
-Building **AI-native infrastructure for software systems**
-
-### AI Log Intelligence Platform
-AI-powered observability system
-
-- anomaly detection on streaming logs  
-- clustering + pattern discovery  
-- root cause analysis layer  
-- aws-native pipeline (s3, lambda, kinesis, sagemaker)
-
-→ logs become structured intelligence
+### ⚡ About Me  
+- 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and **SPATA** (Systematic Pattern Analysis for Detailed and Transparent Data Cards)  
+- 🌱 Learning: **MLOps, Distributed Systems, PySpark, AWS**  
+- 👯 Open to collaborating on **AI/ML applications, Data Engineering workflows, Automation pipelines**  
+- 💬 Ask me about: **Python, Machine Learning, Pytorch, Kafka, Data Engineering, Cloud Architecture**  
+- 📫 Reach me at: **sahojitxd26@gmail.com**  
+- ⚡ Fun fact: I love building AI systems that solve real-world problems!  
 
 ---
 
-### ML Commit Risk Scoring (CI/CD Intelligence)
+## <p align="center">🧰 Skills & Tools</p>
 
-predict failures before they happen
+<p align="center">
 
-- commit risk scoring (ml)  
-- cost-sensitive thresholds  
-- fastapi inference api  
-- mlflow tracking + monitoring  
-- structured logging + feedback loops  
+<!-- Programming -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-→ commits → risk → prevention  
+<!-- AI / ML -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
----
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-## Open Source
 
-<table>
-<tr>
-<td>
+<!-- MLOps / DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-### AI Log Intelligence *(in progress)*
+<!-- Big Data -->
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-AI-native log analysis & RCA system  
+<!-- Web -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/focus-observability%20%7C%20anomaly%20detection-0ea5e9?style=flat-square"/>
-
-</td>
-<td>
-
-### Commit Risk Scoring
-
-CI/CD intelligence system  
-
-<img src="https://img.shields.io/badge/focus-ml%20%7C%20ci%2Fcd%20intelligence-111827?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ML Systems Stack
-
-end-to-end pipelines  
-
-<img src="https://img.shields.io/badge/focus-ml%20systems%20%7C%20production-0ea5e9?style=flat-square"/>
-
-</td>
-<td>
-
-### Observability Layer
-
-monitoring + feedback  
-
-<img src="https://img.shields.io/badge/focus-monitoring%20%7C%20logging-111827?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## Stack
+## <p align="center">📊 GitHub Stats</p>
 
-<table>
-<tr><td><b>ML</b></td><td>XGBoost, anomaly detection, clustering, evaluation</td></tr>
-<tr><td><b>Backend</b></td><td>FastAPI, PostgreSQL</td></tr>
-<tr><td><b>MLOps</b></td><td>MLflow, monitoring, logging pipelines</td></tr>
-<tr><td><b>Cloud</b></td><td>AWS (S3, Lambda, Kinesis, SageMaker)</td></tr>
-</table>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahojit&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahojit&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## Focus
-
-- AI Observability  
-- CI/CD Intelligence  
-- Production ML Systems  
-- Failure Detection & Prevention  
-
-→ building systems that **see, decide, and adapt**
-
----
-
-## Direction
-
-towards:
-
-- AI-native infrastructure  
-- self-improving pipelines  
-- intelligent debugging systems  
-
-→ software that understands itself  
-
----
-
-## Principle
-
-> if your model only works in a notebook, it doesn’t work.
-
----
-
-## Current Goal
-
-build:
-
-> the intelligence layer for software engineering workflows  
-
----
-
-## Stats
-
-<a href="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
-</a>
-
----
-
-<a href="#"><img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0ea5e9&height=120&section=footer"/></a>
+<p align="center">
+✨ <strong>Thanks for visiting!</strong><br>
+Let’s build something amazing together 🚀
+</p>
