@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ### ⚡ About Me  
 - 🔭 I’m currently working on cloud-based AI systems, ML pipelines, and **SPATA** (Systematic Pattern Analysis for Detailed and Transparent Data Cards)  
