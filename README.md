@@ -1,73 +1,114 @@
-<img src = "githubanner.JPG"/>
+<img src="githubanner.JPG"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center">🚀 AI/ML Engineer | Building Production-Ready Systems</h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" style="margin-left: 20px;" />
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+
+Hey 👋 I'm <b>Jeet</b>, an aspiring <b>AI/ML Engineer</b> focused on building 
+<strong>real-world, production-grade machine learning systems</strong>.
+
+I don’t just train models — I design <b>end-to-end ML pipelines</b>, deploy APIs, 
+and optimize systems for <b>real impact, scalability, and reliability</b>.
+
 </p>
 
-
 <br/>
+
+---
+
+<h2 align="center">🧠 What I Do</h2>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+
+✔️ Build end-to-end ML systems (Data → Model → Deployment) <br/>
+✔️ Work on real-world AI problems (logs, CI/CD, anomaly detection) <br/>
+✔️ Optimize models with cost-sensitive learning & calibration <br/>
+✔️ Design production pipelines with monitoring & fallback systems <br/>
+
 </p>
 
-<br/>
-<br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+---
+
+<h2 align="center">🔥 Featured Work</h2>
+
+<p>
+
+🚀 <b>ML-Based Commit Risk Scoring System</b>  
+→ Predicts risky commits to optimize CI/CD pipelines  
+→ XGBoost model (~80% accuracy)  
+→ FastAPI deployment + logging + Streamlit dashboard  
+
+<br>
+
+⚡ <b>AI Log Intelligence Platform (AWS)</b>  
+→ Real-time anomaly detection on logs  
+→ Built with S3, Lambda, Kinesis, SageMaker  
+→ Focus: root cause analysis + scalable pipelines  
+
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=python&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+
 </p>
 
-<br/>
+---
 
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
-<div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<h2 align="center">📈 Current Focus</h2>
 
-</div>
+<p align="center">
 
+🔹 Production ML Systems Design <br/>
+🔹 Model Monitoring & Drift Detection <br/>
+🔹 Cost-Sensitive Learning & Calibration <br/>
+🔹 Scalable AI Systems on AWS <br/>
 
+</p>
+
+---
+
+<h2 align="center">⚡ Philosophy</h2>
+
+<p align="center">
+
+"Anyone can train a model.  
+<b>Engineers build systems that survive production.</b>"
+
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+Open to collaborations, internships, and AI engineering opportunities 🚀
+</p>
