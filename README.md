@@ -18,12 +18,18 @@ Currently, I am building scalable ML systems with an emphasis on <b>performance,
 <br/>
 
 <p align="center">
-<img src="/imgs/img3.png" width="15"/> <em><b>Focused on AI/ML Engineering & System Design</b></em> <br/>
-<img src="/imgs/img4.png" width="15"/> <em><b>Building production-grade ML systems & APIs</b></em><br/>
-<img src="/imgs/img2.png" width="15"/> <em><b>Working on real-world projects (CI/CD ML, Log Intelligence)</b></em><br/>
-<img src="/imgs/img1.png" width="15"/> <em><b>Continuously learning advanced ML & scalable architectures</b></em><br/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/artificial-intelligence.png" width="18" style="vertical-align: middle;"/>
+<span style="vertical-align: middle;"><b>Focused on AI/ML Engineering & System Design</b></span>
+<br><br>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/api.png" width="18" style="vertical-align: middle;"/>
+<span style="vertical-align: middle;"><b>Building production-grade ML systems & APIs</b></span>
+<br><br>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/combo-chart.png" width="18" style="vertical-align: middle;"/>
+<span style="vertical-align: middle;"><b>Working on real-world projects (CI/CD ML, Log Intelligence)</b></span>
+<br><br>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/learning.png" width="18" style="vertical-align: middle;"/>
+<span style="vertical-align: middle;"><b>Continuously learning advanced ML & scalable architectures</b></span>
 </p>
-
 <br/>
 <br/>
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
