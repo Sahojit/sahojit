@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="githubimg.jpeg" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
