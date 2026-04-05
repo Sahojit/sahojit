@@ -36,13 +36,10 @@ Currently, I am building scalable ML systems with an emphasis on <b>performance,
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/> <em><b>Focused on AI/ML Engineering & System Design</b></em> <br/>
-
-<img src="/imgs/img4.png" width="15"/> <em><b>Building production-grade ML systems & APIs</b></em><br/>
-
-<img src="/imgs/img2.png" width="15"/> <em><b>Working on real-world projects (CI/CD ML, Log Intelligence)</b></em><br/>
-
-<img src="/imgs/img1.png" width="15"/> <em><b>Continuously learning advanced ML & scalable architectures</b></em><br/>
+<img src="imgs/img3.png" width="15"/>
+<img src="imgs/img4.png" width="15"/>
+<img src="imgs/img2.png" width="15"/>
+<img src="imgs/img1.png" width="15"/>
 </p>
 
 <br/>
