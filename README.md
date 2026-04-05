@@ -27,7 +27,9 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! I'm <b>Jeet</b>, an aspiring <b>AI/ML Engineer</b> focused on building <b>production-ready machine learning systems</b>.
+I work on end-to-end ML pipelines — from data ingestion and feature engineering to model training, deployment, and monitoring. My focus is on solving real-world problems using AI, especially in areas like <b>CI/CD optimization, anomaly detection, and log intelligence</b>.
+Currently, I am building scalable ML systems with an emphasis on <b>performance, reliability, and real-world impact</b>.
 </p>
 
 
