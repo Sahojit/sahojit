@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src="WhatsApp Image 2026-04-05 at 20.17.19 (1).jpeg" width="15"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
