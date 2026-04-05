@@ -24,35 +24,25 @@ Currently, I am building scalable ML systems with an emphasis on <b>performance,
 <img src="https://img.icons8.com/ios-filled/50/ffffff/api.png" width="18" style="vertical-align: middle;"/>
 <span style="vertical-align: middle;"><b>Building production-grade ML systems & APIs</b></span>
 <br><br>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/combo-chart.png" width="18" style="vertical-align: middle;"/>
-<span style="vertical-align: middle;"><b>Working on real-world projects (CI/CD ML, Log Intelligence)</b></span>
-<br><br>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/learning.png" width="18" style="vertical-align: middle;"/>
-<span style="vertical-align: middle;"><b>Continuously learning advanced ML & scalable architectures</b></span>
 </p>
 <br/>
 <br/>
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=python&logoColor=white" />
-
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
 <br/>
-
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahojit&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
 </div>
 
 
