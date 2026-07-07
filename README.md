@@ -25,12 +25,12 @@
       <img src="https://github-readme-stats-sable-rho-i4lfr939h9.vercel.app/api?username=Sahojit&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
     </td>
     <td width="39%" align="center">
-      <img src="https://github-readme-stats-sable-rho-i4lfr939h9.vercel.app/api/top-langs/?username=Sahojit&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages by Repo" />
+      <img src="https://github-readme-stats-sable-rho-i4lfr939h9.vercel.app/api/top-langs/?username=Sahojit&layout=donut&hide=css,javascript&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages by Repo" />
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://streak-stats.demolab.com/?user=Sahojit&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Sahojit&theme=github-dark-blue&hide_border=true&background=0d1117&card_width=467" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
