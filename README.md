@@ -119,8 +119,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" /><img src="https://img.shields.io/badge/EDA-2b2b2b?style=for-the-badge" />
 
     
-  - Integrated, cleaned, and analyzed **5+ MBA admissions datasets** using **Python (Pandas)** — data preprocessing, feature engineering, and EDA to surface conversion bottlenecks, campaign performance trends, and key enrollment drivers across the end-to-end admissions funnel.
-  - Designed a **multi-page interactive Power BI dashboard** — KPI tracking, marketing funnel analysis, applicant profiling, campaign performance, test-score analytics, and ROI visualizations — enabling data-driven recommendations that improved lead quality and enrollment outcomes.
+  - Integrated and cleaned 5+ MBA admissions datasets using Python (Pandas), performing data preprocessing and exploratory data analysis to uncover campaign and enrollment insights.
+  - Developed a multi-page Power BI dashboard to visualize KPIs, marketing funnel performance, applicant analytics, and campaign ROI for data-driven decision-making.
 
   </td></tr>
 </table>
