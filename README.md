@@ -77,6 +77,8 @@
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
@@ -104,17 +106,11 @@
 <table>
   <tr><td>
 
-  <img src="https://img.shields.io/badge/AI_ENGINEERING_INTERN-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/COMPANY_NAME-8B1E3F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📅_2026_–_PRESENT-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_REMOTE,_INDIA-2b2b2b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_ENGINEERING_INTERN-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/COMPANY_NAME-8B1E3F?style=for-the-badge" /><img src="https://img.shields.io/badge/📅_2026_–_PRESENT-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/📍_REMOTE,_INDIA-2b2b2b?style=for-the-badge" />
 
   <br /><br />
 
-  <img src="https://img.shields.io/badge/LLM_SYSTEMS-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APPLIED_GENAI-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_SYSTEMS-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/APPLIED_GENAI-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
   - Building **multi-agent LLM systems** (research, writer, and critic agents) with real LLM calls, web research, financial data tooling, and persistent memory.
   - Instrumenting pipelines end-to-end with **LangFuse** tracing and eval hooks for reproducible agent behaviour.
@@ -122,19 +118,14 @@
   </td></tr>
   <tr><td>
 
-  <img src="https://img.shields.io/badge/DATA_%2F_AI_INTERN-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FUTURENSE_TECHNOLOGIES-C0392B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📅_MONTH_2025_–_MONTH_2025-2b2b2b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_INDIA-2b2b2b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA_ANALYST_INTERN-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/FUTURENSE_TECHNOLOGIES-C0392B?style=for-the-badge" /><img src="https://img.shields.io/badge/📅_2025-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/📍_INDIA-2b2b2b?style=for-the-badge" />
 
   <br /><br />
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML_PIPELINES-2b2b2b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" /><img src="https://img.shields.io/badge/EDA-2b2b2b?style=for-the-badge" />
 
-  - ADD_BULLET: what you built/analysed at Futurense with a metric.
-  - ADD_BULLET: second impact bullet (dataset size, accuracy, time saved, etc.).
+  - Integrated, cleaned, and analyzed **5+ MBA admissions datasets** using **Python (Pandas)** — data preprocessing, feature engineering, and EDA to surface conversion bottlenecks, campaign performance trends, and key enrollment drivers across the end-to-end admissions funnel.
+  - Designed a **multi-page interactive Power BI dashboard** — KPI tracking, marketing funnel analysis, applicant profiling, campaign performance, test-score analytics, and ROI visualizations — enabling data-driven recommendations that improved lead quality and enrollment outcomes.
 
   </td></tr>
 </table>
