@@ -22,7 +22,7 @@
       <img src="https://komarev.com/ghpvc/?username=Sahojit&label=Profile+views&color=blue&style=flat" alt="Profile views" />
     </td>
     <td width="39%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sahojit&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sahojit&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
     </td>
     <td width="39%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahojit&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages by Repo" />
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahojit&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Sahojit&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
