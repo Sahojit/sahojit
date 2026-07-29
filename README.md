@@ -105,7 +105,7 @@
 
 <table>
   <tr><td>
-<img src="https://img.shields.io/badge/AI_ENGINEERING_INTERN-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/COMPANY_NAME-8B1E3F?style=for-the-badge" /><img src="https://img.shields.io/badge/📅_2026_–_PRESENT-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/📍_REMOTE,_INDIA-2b2b2b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_ENGINEERING_INTERN-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/FUTURENSE_TECHNOLOGIES-C0392B?style=for-the-badge" /><img src="https://img.shields.io/badge/📅_2026_–_PRESENT-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/📍_REMOTE,_INDIA-2b2b2b?style=for-the-badge" />
  <br /><br />
  <img src="https://img.shields.io/badge/LLM_SYSTEMS-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/APPLIED_GENAI-2b2b2b?style=for-the-badge" /><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
