@@ -22,10 +22,10 @@
       <img src="https://komarev.com/ghpvc/?username=Sahojit&label=Profile+views&color=blue&style=flat" alt="Profile views" />
     </td>
     <td width="39%" align="center">
-      <img src="https://github-readme-stats-sable-rho-i4lfr939h9.vercel.app/api?username=Sahojit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=BF91F3&text_color=2DD9BC&rank_icon=github&custom_title=Stats" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sable-rho-i4lfr939h9.vercel.app/api?username=Sahojit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=BF91F3&text_color=79C0FF&rank_icon=github&custom_title=Stats" alt="GitHub Stats" />
     </td>
     <td width="39%" align="center">
-      <img src="https://github-readme-stats-sable-rho-i4lfr939h9.vercel.app/api/top-langs/?username=Sahojit&layout=donut&hide=css,javascript&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=2DD9BC&custom_title=Top%20Languages%20by%20Repo" alt="Top Languages by Repo" />
+      <img src="https://github-readme-stats-sable-rho-i4lfr939h9.vercel.app/api/top-langs/?username=Sahojit&layout=donut&hide=css,javascript&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=BF91F3&custom_title=Top%20Languages%20by%20Repo" alt="Top Languages by Repo" />
     </td>
   </tr>
   <tr>
